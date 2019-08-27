@@ -28,4 +28,5 @@ def find_min_value(array)
       current_min = current_min
     end
   end
+  return current_min
 end
